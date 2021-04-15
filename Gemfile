@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 gemspec
 
-gem 'jekyll'
+gem 'jekyll-podcaster'
 
 gem 'wdm', '>= 0.1.0'
 
